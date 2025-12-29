@@ -23,7 +23,7 @@
 - Programmation de la carte Arduino  
 - Intégration capteurs ultrason et pompe électronique  
 
-🔗 Repo : https://github.com/TON_USERNAME/lave-mains-automatique
+🔗 Repo : https://github.com/Takouamy/lave-mains-automatique
 
 ---
 
@@ -32,7 +32,7 @@
 - Simulation en terrain libre et avec obstacles  
 - Recherche du chemin optimal  
 
-🔗 Repo : https://github.com/TON_USERNAME/robot-sauveteur
+🔗 Repo : https://github.com/Takouamy/robot-sauveteur
 
 ---
 
@@ -41,7 +41,7 @@
 - Structures de données
 - Gestion mémoire et fichiers  
 
-🔗 Repo : https://github.com/TON_USERNAME/iNotes
+🔗 Repo : https://github.com/Takouamy/iNotes
 
 ---
 
