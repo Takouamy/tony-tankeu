@@ -41,7 +41,7 @@
 - Structures de données
 - Gestion mémoire et fichiers  
 
-🔗 Repo : https://github.com/Takouamy/iNotes
+🔗 Repo : https://github.com/Takouamy/iNotes-C
 
 ---
 
