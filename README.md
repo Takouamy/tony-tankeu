@@ -19,6 +19,7 @@
 
 ### Modeles 3D
 **Logiciels :** SolidWorks
+🔗Repo : https://github.com/Takouamy/Models-3D
 
 ### 📊 iNotes – Application de gestion des notes
 **Technologies :** C  
