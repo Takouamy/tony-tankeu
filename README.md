@@ -8,10 +8,10 @@
 
 ## 🔧 Compétences techniques
 - C / C++
-- Java
-- Arduino
 - SolidWorks
 - MATLAB
+- Arduino
+- Java
 
 ---
 
