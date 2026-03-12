@@ -17,7 +17,8 @@
 
 ## 📂 Projets
 
-###Modeles 3D
+### Modeles 3D
+**Logiciels :** SolidWorks
 
 ### 📊 iNotes – Application de gestion des notes
 **Technologies :** C  
