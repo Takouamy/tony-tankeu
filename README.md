@@ -10,31 +10,14 @@
 - C / C++
 - Java
 - Arduino
-- Automatisme (GRAFCET)
+- SolidWorks
 - MATLAB
 
 ---
 
 ## 📂 Projets
 
-### 🚰 Lave-mains automatique
-**Technologies :** Arduino, C  
-- Conception du GRAFCET  
-- Programmation de la carte Arduino  
-- Intégration capteurs ultrason et pompe électronique  
-
-🔗 Repo : https://github.com/Takouamy/lave-mains-automatique
-
----
-
-### 🤖 Robot sauveteur (simulation)
-**Technologies :** Java  
-- Simulation en terrain libre et avec obstacles  
-- Recherche du chemin optimal  
-
-🔗 Repo : https://github.com/Takouamy/robot-sauveteur
-
----
+###Modeles 3D
 
 ### 📊 iNotes – Application de gestion des notes
 **Technologies :** C  
