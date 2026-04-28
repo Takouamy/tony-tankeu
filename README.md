@@ -2,158 +2,141 @@
 
 <div align="center">
 
-### Ingénieur Mécatronique en formation | Robotique | Systèmes Embarqués | Automatisation
-
-Recherche alternance 24 mois à partir de septembre 2026  
-Mécatronique • Robotique • Automatisme • Intégration industrielle
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&lines=Mechatronics+Engineer+Student+%7C+Robotics+%7C+Embedded+Systems;Mechanical+Design+%7C+Automation+%7C+Control+Systems;C%2B%2B+%7C+Python+%7C+SolidWorks+%7C+Arduino;Building+real+systems+that+move%2C+sense+and+perform" />
 
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tony-tankeu-kouamouo">
+    <img src="https://img.shields.io/badge/LinkedIn-Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:tankeukouamouotony@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/TON_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-Mes_projets-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ## À propos de moi
 
-Étudiant en cycle ingénieur à l’ESIGELEC, orienté **mécatronique, systèmes embarqués et automatisme**, je recherche une **alternance 2026-2028** en environnement industriel ou technologique.
+Étudiant ingénieur à **ESIGELEC**, spécialisé en **Mécatronique, Systèmes Embarqués et Automatisme**, je recherche une **alternance de 24 mois à partir de septembre 2026**.
 
-Je m’intéresse à la conception de systèmes intelligents combinant :
+Je développe des systèmes combinant :
 
 - mécanique
 - électronique
 - programmation embarquée
-- capteurs / actionneurs
 - automatisation
-- prototypage fonctionnel
+- robotique
+- prototypage rapide
 
-Mon objectif : participer à la création de machines, robots ou systèmes automatisés utiles, robustes et performants.
+Je veux concevoir des machines utiles, fiables et intelligentes.
 
 ---
 
 ## Ce que je recherche
 
-Je souhaite contribuer sur des sujets comme :
+Je souhaite rejoindre une équipe travaillant sur :
 
 - Robotisation industrielle
+- Machines spéciales
+- Systèmes embarqués
+- Intégration robotique
 - Conception mécatronique
-- Intégration de systèmes automatisés
-- Développement embarqué
-- Tests et validation
-- Prototypage mécanique
-- Commande moteur / multi-axes
-- Maintenance intelligente
+- Automatisation industrielle
+- Contrôle commande
 - Innovation produit
 
 ---
 
 ## Projets
 
-### Bras robotisé 3 axes (prototype en finalisation)
+### Bras Robotisé 3 Axes
 
-Projet personnel complet de robotique :
+Projet personnel complet :
 
-- Conception mécanique sous SolidWorks (**16 pièces + assemblage**)
-- Étude cinématique des axes
-- Intégration de servomoteurs
-- Commande embarquée en **C++ sur Arduino**
-- Pilotage coordonné multi-axes
-- Optimisation stabilité / précision / montage
+- Conception **SolidWorks** (16 pièces + assemblage)
+- Architecture mécanique multi-axes
+- Servomoteurs intégrés
+- Pilotage en **C++ sur Arduino**
+- Tests précision / stabilité
+- Optimisation structurelle
 
-### Lave-mains automatique
+### Lave-Mains Automatique
 
-Prototype automatisé réalisé autour d’un système de détection :
-
-- Capteur ultrasonique
+- Détection ultrasonique
 - Pompe électrique
-- Programmation Arduino en C++
-- Conception du **GRAFCET**
-- Réalisation d’un prototype fonctionnel
+- GRAFCET de commande
+- Arduino C++
+- Prototype fonctionnel
 
-### iNotes – Application de gestion académique
+### Hackathome EDF – Robot Nucléaire
 
-Projet logiciel structuré :
+- Robot de nettoyage environnement sensible
+- Concept mécanique
+- Stratégie de commande
+- Travail équipe technique
 
-- Gestion étudiants / matières / notes
+### iNotes – Application C++
+
+- Gestion étudiants / notes / matières
 - Structures de données
-- Sauvegarde fichiers
-- Organisation logique des données
-
-### Hackathome EDF – Robot environnement nucléaire
-
-Participation récompensée :
-
-- Conception théorique d’un robot de nettoyage
-- Réflexion architecture mécanique
-- Logique de commande
-- Travail en équipe pluridisciplinaire
+- Logique logicielle
 
 ---
 
-## Expérience
+## Compétences Techniques
 
-### REPROTECH – Stage technique
+### Mécanique / Design
 
-- Diagnostic de pannes électroniques
-- Maintenance préventive et corrective
-- Analyse méthodique des dysfonctionnements
-- Intervention sur équipements techniques
+<p>
+<img src="https://img.shields.io/badge/SolidWorks-CAO-red?style=flat&logo=dassaultsystemes&logoColor=white">
+<img src="https://img.shields.io/badge/Mechanical_Design-Conception-blue?style=flat">
+<img src="https://img.shields.io/badge/Assembly-CAD-success?style=flat">
+</p>
 
----
+### Embarqué / Programmation
 
-## Compétences techniques
-
-### Mécanique / CAO
-
-- SolidWorks
-- Assemblages
-- Mise en plan
-- Croquis techniques
-- Conception pièces mécaniques
+<p>
+<img src="https://img.shields.io/badge/C-Language-A8B9CC?style=flat&logo=c">
+<img src="https://img.shields.io/badge/C%2B%2B-Embedded-00599C?style=flat&logo=cplusplus">
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python">
+<img src="https://img.shields.io/badge/Arduino-Prototyping-00979D?style=flat&logo=arduino">
+</p>
 
 ### Automatisme / Contrôle
 
-- GRAFCET
-- Logique séquentielle
-- Bases PID
-- Analyse fonctionnelle
+<p>
+<img src="https://img.shields.io/badge/GRAFCET-Sequential-orange?style=flat">
+<img src="https://img.shields.io/badge/PID-Control-green?style=flat">
+<img src="https://img.shields.io/badge/Simulink-Modeling-darkgreen?style=flat">
+</p>
 
-### Systèmes embarqués
+### Outils
 
-- Arduino
-- C
-- C++
-- Capteurs
-- Actionneurs
-- Interfaces simples
-
-### Logiciel / Simulation
-
-- Python
-- MATLAB
-- Simulink
-- Linux
-- ORCAD
-
-### En apprentissage
-
-- ROS2
-- Robotique avancée
-- Vision embarquée
-- Architectures industrielles
+<p>
+<img src="https://img.shields.io/badge/Linux-System-black?style=flat&logo=linux">
+<img src="https://img.shields.io/badge/GitHub-Versioning-181717?style=flat&logo=github">
+<img src="https://img.shields.io/badge/VS_Code-Development-007ACC?style=flat&logo=visualstudiocode">
+</p>
 
 ---
 
 ## Certifications
 
-- SOLIDWORKS 3D CAD for Education
-- Programming in C++: A Hands-on Introduction
-- TOEIC : **860/990**
+- SOLIDWORKS 3D CAD for Education  
+- Programming in C++  
+- TOEIC : 860/990
 
 ---
 
 ## Langues
 
-- Français : courant
-- Anglais : professionnel
-- TOEIC 860
+- Français : courant  
+- Anglais : professionnel  
 - Espagnol : notions
 
 ---
@@ -161,14 +144,12 @@ Participation récompensée :
 ## Contact
 
 📧 tankeukouamouotony@gmail.com  
-💼 LinkedIn : www.linkedin.com/in/tony-tankeu-kouamouou  
+💼 LinkedIn : linkedin.com/in/tony-tankeu-kouamouo  
 🚗 Permis B  
-📍 Mobile en France
+📍 Mobile France
 
 ---
 
 ## Vision
 
-Construire des systèmes intelligents qui relient logiciel, mécanique et électronique pour répondre à des besoins concrets.
-
----
+Concevoir des systèmes intelligents où logiciel, mécanique et électronique travaillent ensemble.
