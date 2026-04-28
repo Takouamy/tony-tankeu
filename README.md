@@ -1,39 +1,72 @@
-# 👋 Tony Tankeu
+# Bonjour, moi c’est Tony TANKEU KOUAMOUO
 
-🎓 Étudiant ingénieur en mécatronique / automatisme  
-🤖 Intéressé par la robotique, l’automatisation et l’IA  
-📍 France
+Mechatronics Engineer Student | Robotics | Embedded Systems | Automation
 
----
-
-## 🔧 Compétences techniques
-- C / C++
-- SolidWorks
-- MATLAB
-- Arduino
-- Java
+Recherche alternance 2026-2028 en mécatronique / robotique / automatisation
 
 ---
 
-## 📂 Projets
+## À propos de moi
 
-### Modeles 3D
-**Logiciels :** SolidWorks
+Étudiant ingénieur à l’ESIGELEC...
+Je développe des systèmes combinant :
 
-
-🔗Repo : https://github.com/Takouamy/Models-3D
-
----
-
-### 📊 iNotes – Application de gestion des notes
-**Technologies :** C  
-- Structures de données
-- Gestion mémoire et fichiers  
-
-🔗 Repo : https://github.com/Takouamy/iNotes-C
+- conception mécanique
+- commande embarquée
+- capteurs et actionneurs
+- automatisation industrielle
+- prototypage rapide
 
 ---
 
-## 📫 Me contacter
-- Email : tankeukouamouotony@gmail.com
-- LinkedIn : https://linkedin.com/in/tony-tankeu-kouamouo
+## Projets
+
+### Bras robotisé 3 axes
+- SolidWorks : 16 pièces + assemblage
+- Arduino C++
+- Pilotage multi-axes
+- Optimisation stabilité / précision
+
+### Lave-mains automatique
+- GRAFCET
+- Capteur ultrason
+- Pompe électrique
+- Prototype fonctionnel
+
+### Robot nucléaire Hackathon EDF
+- Concept robot de nettoyage
+- Architecture mécanique
+- Logique de commande
+
+---
+
+## Compétences
+
+### Mécanique
+SolidWorks, CAO, assemblage, cotation
+
+### Automatisme
+GRAFCET, logique séquentielle
+
+### Embarqué
+Arduino, C, C++, capteurs
+
+### Software
+Python, Linux
+
+### Outils
+GitHub, VS Code, MATLAB, Simulink
+
+---
+
+## Certifications
+
+...
+
+---
+
+## Contact
+
+LinkedIn  
+Mail  
+France mobilité
