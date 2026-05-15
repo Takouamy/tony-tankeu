@@ -1,4 +1,4 @@
-# Bonjour, moi c’est Tony TANKEU KOUAMOUO
+# Bonjour, et bienvenue sur mon Portfolio
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 Étudiant ingénieur à **ESIGELEC**, spécialisé en **Mécatronique, Systèmes Embarqués et Automatisme**, je recherche une **alternance de 24 mois à partir de septembre 2026**.
 
-Je développe des systèmes combinant :
+Je suis passioné des systèmes combinant :
 
 - mécanique
 - électronique
@@ -33,7 +33,7 @@ Je développe des systèmes combinant :
 - robotique
 - prototypage rapide
 
-Je veux concevoir des machines utiles, fiables et intelligentes.
+Je souhaite concevoir des machines utiles, fiables et intelligentes.
 
 ---
 
@@ -64,7 +64,7 @@ Projet personnel complet :
 - Pilotage en **C++ sur Arduino**
 - Tests précision / stabilité
 - Optimisation structurelle
-repo : (https://github.com/Takouamy/Bras-Robot)
+- repo : (https://github.com/Takouamy/Bras-Robot)
 ### Lave-Mains Automatique
 
 - Détection ultrasonique
@@ -85,7 +85,7 @@ repo : (https://github.com/Takouamy/Bras-Robot)
 - Gestion étudiants / notes / matières
 - Structures de données
 - Logique logicielle
-
+- repo : (https://github.com/Takouamy/iNotes-C)
 ---
 
 ## Compétences Techniques
