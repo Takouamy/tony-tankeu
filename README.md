@@ -64,7 +64,7 @@ Projet personnel complet :
 - Pilotage en **C++ sur Arduino**
 - Tests précision / stabilité
 - Optimisation structurelle
-
+repo : (https://github.com/Takouamy/Bras-Robot)
 ### Lave-Mains Automatique
 
 - Détection ultrasonique
