@@ -137,7 +137,7 @@ Projet personnel complet :
 
 - Français : courant  
 - Anglais : professionnel  
-- Espagnol : notions
+- Allemant : notions
 
 ---
 
